@@ -18,7 +18,7 @@
   <hr>
     <h2> </h2>
 
-
+    <form action="/action_page.php" method="post">
       <div class="border__login">
 
 
@@ -32,15 +32,14 @@
         <label for="psw"><b><center>Password</center></b></label>
         <input type="password" placeholder="Enter Password" name="psw" required>
       </div>
-
       <div class="container__login--login">
-        <button onclick="window.location='patientenlijst.php'">inloggen</button>
+        <button type="submit">inloggen</button>
       </div>
   </div>
   </div>
 
 <div class="container__forgot-password">
-    <span class="psw"><a href="wwvergeten.php">Password vergeten? </a></span>
+    <span class="psw"><a href="#">Password vergeten? </a></span>
   </div>
 
 <div class="container__regristreren">
@@ -50,7 +49,7 @@
 
 
 
-
+  </form>
 </div>
 </body>
 </html>
