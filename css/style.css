@@ -247,6 +247,14 @@ li {
   border: 1px solid black;
 }
 
+.taak2 {
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 5px;
+  margin-bottom: 15px;
+  border: 1px solid black;
+}
+
 .taak__dag {
   text-align: center;
   padding: 12px;
@@ -337,6 +345,18 @@ li {
   border-color: transparent transparent transparent #A7D5F3;
 }
 
+.buttonkutwaar {
+  position: absolute;
+  margin-top: 80px;
+  margin-left: 46px;
+  border-style: solid;
+  box-sizing: border-box;
+  width: 20px;
+  height: 40px;
+  border-width: 15px 15px 5px 15px;
+  border-color: #A7D5F3 transparent transparent transparent;
+}
+
 .buttonkut {
   float: right;
   margin-right: 60px;
@@ -354,6 +374,22 @@ li {
   width: 200px;
 }
 
+.takenlijst__wakkerworden--audio--streepje-links{
+  margin-left: 60px;
+  margin-top: -10px;
+  position: absolute;
+  border-left: 2px solid black;
+  height: 20px;
+}
+
+.takenlijst__wakkerworden--audio--streepje-rechts{
+  margin-left: 260px;
+  margin-top: -10px;
+  position: absolute;
+  border-left: 2px solid black;
+  height: 20px;
+}
+
 .takenlijst__wakkerworden--audio--begintijd {
   float: left;
   margin-left: 40px;
@@ -361,7 +397,7 @@ li {
 
 .takenlijst__wakkerworden--audio--eindtijd {
   float: right;
-  margin-right: 30px;
+  margin-right: 20px;
 }
 
 .takenlijst__wakkerworden--gedaan {
@@ -370,6 +406,19 @@ li {
   text-align: center;
   width: 100px;
   margin: 10px;
+  padding: 20px;
+  background-color: #00FF11;
+  border: 1px solid black;
+}
+
+.takenlijst__wakkerworden--gedaan-stap4 {
+  position: absolute;
+  float: left;
+  text-align: center;
+  width: 100px;
+  margin-left: 80px;
+  margin-top: 10px;
+  margin-bottom: 10px;
   padding: 20px;
   background-color: #00FF11;
   border: 1px solid black;
@@ -384,6 +433,27 @@ li {
   background-color: #FEBF13;
   border: 1px solid black;
 }
+
+.takenlijst__wakkerworden--stap1 {
+  background-color: #E8BDFE;
+  padding: 10px;
+  margin-left: 90px;
+  text-align: center;
+  border: 1px solid black;
+  border-radius: 50%;
+  width: 100px;
+}
+
+.takenlijst__wakkerworden--stap--verder {
+  padding-bottom: 20px;
+  margin-bottom: 15px;
+  margin-left: 35px;
+  border: 1px solid black;
+  background-color: #E8BDFE;
+  width: 236px;
+  height: 48px;
+}
+
 
 li a {
   display: block;
