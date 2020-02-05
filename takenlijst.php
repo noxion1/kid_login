@@ -26,18 +26,96 @@
 <hr>
 
 <div class="taak">
-  <a href="">
+  <a href="takenlijst-wakkerworden.php">
+    <p class="taak__title">wakker worden</p>
+    <div class="taak__info">
+      <p>
+        kanker met kanker met kanker met wat extra kanker
+      </p>
+    </div>
     <div class="taak__dag">
-      kanker
+      Maandag
     </div>
+
     <div class="taak__tijd">
-      kanker
+      08:00
     </div>
-    <div class="taak__gedaan">
-      kanker
+    <div class="taak__gedaan--af">
+      ✔
     </div>
-    <p> </p>
+
   </a>
+
+</div>
+
+
+<div class="taak">
+  <a href="">
+    <p class="taak__title">tanden poetsen</p>
+    <div class="taak__info">
+      <p>
+        kanker met kanker met kanker met wat extra kanker
+      </p>
+    </div>
+    <div class="taak__dag">
+      Maandag
+    </div>
+
+    <div class="taak__tijd">
+      09:15
+    </div>
+    <div class="taak__gedaan--bezig">
+      x
+    </div>
+
+  </a>
+
+</div>
+
+<div class="taak">
+  <a href="">
+    <p class="taak__title">eten</p>
+    <div class="taak__info">
+      <p>
+        kanker met kanker met kanker met wat extra kanker
+      </p>
+    </div>
+    <div class="taak__dag">
+      Maandag
+    </div>
+
+    <div class="taak__tijd">
+      09:30
+    </div>
+    <div class="taak__gedaan--bezig">
+      x
+    </div>
+
+  </a>
+
+</div>
+
+<div class="taak">
+  <a href="">
+    <p class="taak__title">douchen</p>
+    <div class="taak__info">
+      <p>
+        kanker met kanker met kanker met wat extra kanker
+      </p>
+    </div>
+    <div class="taak__dag">
+      Maandag
+    </div>
+
+    <div class="taak__tijd">
+      10:15
+    </div>
+
+    <div class="taak__gedaan--bezig">
+      x
+    </div>
+    </a>
+
 
 </div>
 

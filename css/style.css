@@ -240,33 +240,150 @@ li {
 }
 
 .taak {
-  margin: 5px;
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-top: 5px;
+  margin-bottom: 15px;
   border: 1px solid black;
 }
 
 .taak__dag {
+  text-align: center;
+  padding: 12px;
   margin-top: 10px;
   margin-left: 5px;
   border: 1px solid black;
-  max-width: 100px;
+  max-width: 80px;
 }
 
 .taak__tijd {
+  text-align: center;
+  padding: 12px;
   margin-left: 5px;
   border-bottom: 1px solid black;
   border-left: 1px solid black;
   border-right: 1px solid black;
-  max-width: 100px;
+  max-width: 80px;
 }
 
-.taak__gedaan {
+.taak__gedaan--bezig {
+  text-align: center;
+  padding: 12px;
+  background-color: #FEBF13;
   margin-left: 5px;
+  margin-bottom: 5px;
   border-bottom: 1px solid black;
   border-left: 1px solid black;
   border-right: 1px solid black;
-  max-width: 100px;
+  max-width: 80px;
 }
 
+.taak__gedaan--af {
+  text-align: center;
+  padding: 12px;
+  background-color: #00FF11;
+  margin-left: 5px;
+  margin-bottom: 5px;
+  border-bottom: 1px solid black;
+  border-left: 1px solid black;
+  border-right: 1px solid black;
+  max-width: 80px;
+}
+
+.taak__gedaan:checked{
+  background-color: green;
+}
+
+.taak__title {
+  font-size: 20px;
+  position: absolute;
+  margin-left: 145px;
+}
+
+.taak__info {
+  padding: 1px;
+  margin-right: 10px;
+  margin-top: 51px;
+  float: right;
+  max-width: 180px;
+  border: 1px solid black;
+}
+
+
+.takenlijst__wakkerworden--info {
+  padding-left: 25px;
+  padding-right: 25px;
+}
+
+.takenlijst__wakkerworden--stappenplan {
+  padding-bottom: 20px;
+  margin-bottom: 15px;
+  margin-left: 35px;
+  border: 1px solid black;
+  background-color: #A7D5F3;
+  width: 236px;
+  height: 48px;
+}
+
+.button.play {
+  float: left;
+  margin-top: 20px;
+  margin-left: 110px;
+  border-style: solid;
+  box-sizing: border-box;
+  width: 40px;
+  height: 30px;
+  border-width: 20px 0px 20px 30px;
+  border-color: transparent transparent transparent #A7D5F3;
+}
+
+.buttonkut {
+  float: right;
+  margin-right: 60px;
+  margin-top: 20px;
+  width: 40px;
+  height: 40px;
+  border-style: double;
+  border-width: 0px 0px 0px 30px;
+  border-color: #A7D5F3;
+}
+
+.takenlijst__wakkerworden--audio {
+  margin-left: 60px;
+  border-top: 2px solid black;
+  width: 200px;
+}
+
+.takenlijst__wakkerworden--audio--begintijd {
+  float: left;
+  margin-left: 40px;
+}
+
+.takenlijst__wakkerworden--audio--eindtijd {
+  float: right;
+  margin-right: 30px;
+}
+
+.takenlijst__wakkerworden--gedaan {
+  position: absolute;
+  float: left;
+  text-align: center;
+  width: 100px;
+  margin: 10px;
+  padding: 20px;
+  background-color: #00FF11;
+  border: 1px solid black;
+}
+
+.takenlijst__wakkerworden--bezig {
+  float: right;
+  text-align: center;
+  width: 100px;
+  margin: 10px;
+  padding: 21px;
+  background-color: #FEBF13;
+  border: 1px solid black;
+}
 
 li a {
   display: block;
