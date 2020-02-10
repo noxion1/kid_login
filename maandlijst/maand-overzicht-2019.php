@@ -29,85 +29,89 @@
 
   <div class="maand-help">
     <h4 style="text-align: center;">februari</h4>
+    <a href="../maandlijst-info/maand-overzicht-februari.php">
     <div class="week__info">
-      <p>week info</p>
+      <p>maand info</p>
     </div>
+    </a>
   </div>
 
   <div class="maand-2">
     <h4 style="text-align: center;">januari</h4>
+    <a href="../maandlijst-info/maand-overzicht-januari.php">
     <div class="week__info">
-      <p>week info</p>
+      <p>maand info</p>
     </div>
+    </a>
   </div>
 
   <div class="maand">
     <h4 style="text-align: center;">april</h4>
     <div class="week__info">
-      <p>week info</p>
+      <p>maand info</p>
     </div>
   </div>
 
   <div class="maand-2">
     <h4 style="text-align: center;">maart</h4>
     <div class="week__info">
-      <p>week info</p>
+      <p>maand info</p>
     </div>
   </div>
 
   <div class="maand">
     <h4 style="text-align: center;">juni</h4>
     <div class="week__info">
-      <p>week info</p>
+      <p>maand info</p>
     </div>
   </div>
 
   <div class="maand-2">
     <h4 style="text-align: center;">mei</h4>
     <div class="week__info">
-      <p>week info</p>
+      <p>maand info</p>
     </div>
   </div>
 
   <div class="maand">
     <h4 style="text-align: center;">augustus</h4>
     <div class="week__info">
-      <p>week info</p>
+      <p>maand info</p>
     </div>
   </div>
 
   <div class="maand-2">
     <h4 style="text-align: center;">juli</h4>
     <div class="week__info">
-      <p>week info</p>
+      <p>maand info</p>
     </div>
   </div>
 
   <div class="maand">
     <h4 style="text-align: center;">oktober</h4>
     <div class="week__info">
-      <p>week info</p>
+      <p>maand info</p>
     </div>
   </div>
 
   <div class="maand-2">
     <h4 style="text-align: center;">september</h4>
     <div class="week__info">
-      <p>week info</p>
+      <p>maand info</p>
     </div>
   </div>
 
   <div class="maand">
     <h4 style="text-align: center;">december</h4>
     <div class="week__info">
-      <p>week info</p>
+      <p>maand info</p>
     </div>
   </div>
 
   <div class="maand-2">
     <h4 style="text-align: center;">november</h4>
     <div class="week__info">
-      <p>week info</p>
+      <p>maand info</p>
     </div>
   </div>
   <p></p>

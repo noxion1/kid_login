@@ -16,7 +16,7 @@
   <li class="nav__a--border"><a href="javascript:history.go(-1)">terug</a></li>
 </ul>
   <hr>
-
+  <p></p>
   <hr>
   <ul>
 <li class="nav__a--border--help"><a href="paniek.php">Tijd</a></li>
@@ -30,8 +30,8 @@
     <p class="taak__title">wakker worden</p>
     <div class="taak__info">
       <p>
-        kanker met kanker met kanker met wat extra kanker
-      </p>
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+     </p>
     </div>
     <div class="taak__dag">
       Maandag
@@ -54,7 +54,7 @@
     <p class="taak__title">tanden poetsen</p>
     <div class="taak__info">
       <p>
-        kanker met kanker met kanker met wat extra kanker
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       </p>
     </div>
     <div class="taak__dag">
@@ -77,7 +77,7 @@
     <p class="taak__title">eten</p>
     <div class="taak__info">
       <p>
-        kanker met kanker met kanker met wat extra kanker
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       </p>
     </div>
     <div class="taak__dag">
@@ -100,7 +100,7 @@
     <p class="taak__title">douchen</p>
     <div class="taak__info">
       <p>
-        kanker met kanker met kanker met wat extra kanker
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       </p>
     </div>
     <div class="taak__dag">
@@ -121,5 +121,6 @@
 
 
 </div>
+<br>
 </body>
 </html>
