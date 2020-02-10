@@ -20,7 +20,7 @@
   <hr>
   <ul>
 <li class="nav__a--border--help"><a href="paniek.php">Tijd</a></li>
-<li class="nav__a--border--help"><a href="index.php">Week / <br>Maand</a></li>
+<li class="nav__a--border--help"><a href="maandlijst/maand-overzicht-2019.php">Week / <br>Maand</a></li>
 <li class="nav__a--border--help"><a href="javascript:history.go(-1)">Paniek</a></li>
 </ul>
 <hr>

@@ -17,7 +17,7 @@
 </ul>
   <hr>
 
-<div class="taak">
+<div class="taak2">
 
   <center><h1>Wakker worden</h1></center>
   <p class="takenlijst__wakkerworden--info">
@@ -28,24 +28,38 @@
  commodo. Proin sodales pulvinar
  sic tempor. roin gravida dolor sit amet
  lacus accumsan et viverra justo
- commodo. roin gravida dolor sit amet
- lacus accumsan et viverra justo
+ commodo. roin gravida dolor sit.
  commodo
   </p>
 
+<a href="takenlijst-wakkerworder-stappen-plan/takenlijst-wakkerworden-stap1.php">
   <div class="takenlijst__wakkerworden--stappenplan">
 <p style="font-size:22px; text-align:center;">stappen plan</p>
   </div>
+</a>
 
 </div>
 
-<div class="taak">
+<div class="taak2">
+
+  <div class="buttonkutwaar">
+  </div>
 
   <div class="button play"></div>
 
   <div class="buttonkut"></div>
 
-<br><br><br><br><br>
+<br><br><br><br><br><br>
+
+
+
+<div class="takenlijst__wakkerworden--audio--streepje-links">
+
+</div>
+
+<div class="takenlijst__wakkerworden--audio--streepje-rechts">
+
+</div>
 
 <div class="takenlijst__wakkerworden--audio">
 
@@ -58,18 +72,18 @@
 <br><br>
 </div>
 
-<a href="#">
+<a href="javascript:history.go(-1)">
 <div class="takenlijst__wakkerworden--gedaan">
 ✔
 </div>
 </a>
 
-<a href="#">
+<a href="javascript:history.go(-1)">
 <div class="takenlijst__wakkerworden--bezig">
 X
 </div>
 </a>
-<br><br><br><br>
+<br><br><br><br><br>
 </div>
 </body>
 </html>
